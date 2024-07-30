@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-06T19:31:44 PDT" name="Default suite" finished-at="2024-06-06T19:31:44 PDT" duration-ms="47">
+    <groups>
+    </groups>
+    <test started-at="2024-06-06T19:31:44 PDT" name="Default test" finished-at="2024-06-06T19:31:44 PDT" duration-ms="47">
+      <class name="Nexxvali.MavenProject.Example">
+        <test-method signature="addSum()[pri:0, instance:Nexxvali.MavenProject.Example@2473d930]" started-at="2024-06-06T19:31:44 PDT" name="addSum" finished-at="2024-06-06T19:31:44 PDT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSum -->
+        <test-method signature="lastClass()[pri:0, instance:Nexxvali.MavenProject.Example@2473d930]" started-at="2024-06-06T19:31:44 PDT" name="lastClass" finished-at="2024-06-06T19:31:44 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastClass -->
+      </class> <!-- Nexxvali.MavenProject.Example -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
